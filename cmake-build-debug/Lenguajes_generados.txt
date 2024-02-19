@@ -1,0 +1,15 @@
+Ejecucion 1
+{C}
+Ejecucion 2
+{C, a, b}
+Ejecucion 3
+{C, a, b, aa, ab, ba, bb}
+Ejecucion 4
+{C, a, b, aa, ab, ba, bb, aaa, aab, aba, abb, baa, bab, bba, bbb}
+Ejecucion 5
+{C, a, b, aa, ab, ba, bb, aaa, aab, aba, abb, baa, bab, bba, bbb, aaaa, aaab, aaba, aabb, abaa, abab, abba, abbb, baaa, baab, baba, babb, bbaa, bbab, bbba, bbbb}
+Ejecucion 6
+{C, a, b, aa, ab, ba, bb, aaa, aab, aba, abb, baa, bab, bba, bbb, aaaa, aaab, aaba, aabb, abaa, abab, abba, abbb, baaa, baab, baba, babb, bbaa, bbab, bbba, bbbb, aaaaa, aaaab, aaaba, aaabb, aabaa, aabab, aabba, aabbb, abaaa, abaab, ababa, ababb, abbaa, abbab, abbba, abbbb, baaaa, baaab, baaba, baabb, babaa, babab, babba, babbb, bbaaa, bbaab, bbaba, bbabb, bbbaa, bbbab, bbbba, bbbbb}
+Ejecucion 1:
+{C, a, b, aa, ab, ba, bb, aaa, aab, aba, abb, baa, bab, bba, bbb, aaaa, aaab, aaba, aabb, abaa, abab, abba, abbb, baaa, baab, baba, babb, bbaa, bbab, bbba, bbbb}
+

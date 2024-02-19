@@ -1,0 +1,3 @@
+/home/alejandrovilleda/Escritorio/C++/Teoria de la computacion/Primer parcial/Automatas/Lenguajes/cmake-build-debug/CMakeFiles/Lenguajes.dir
+/home/alejandrovilleda/Escritorio/C++/Teoria de la computacion/Primer parcial/Automatas/Lenguajes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alejandrovilleda/Escritorio/C++/Teoria de la computacion/Primer parcial/Automatas/Lenguajes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
